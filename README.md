@@ -1,5 +1,5 @@
 
-# Hi, I'm Piyush Gour 👋
+# Hi I'm Piyush Gour 👋
 
 ### BCA (Artificial Intelligence & Machine Learning) Student | Aspiring Python Developer
 
