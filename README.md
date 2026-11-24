@@ -17,11 +17,8 @@ I'm a BCA AI & ML student passionate about technology, programming, and solving 
 ## 🛠️ Technical Skills
 
 **Programming:** Python
-
 **Data Analytics:** Excel, Pandas, NumPy
-
 **Machine Learning:** Scikit-learn
-
 **Tools:** Git, GitHub, Jupyter Notebook
 
 ---
@@ -50,7 +47,7 @@ I'm a BCA AI & ML student passionate about technology, programming, and solving 
 ## 🤝 Connect With Me
 
 - GitHub: [@piyushgour-029](https://github.com/piyushgour-029)
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn: https://www.linkedin.com/in/piyushgour877/
 
 ---
 
